@@ -9,7 +9,7 @@ app.use(function (req, res, next) {
 
     const corsWhitelist = [
         'http://localhost:3000',
-        'https://natali09yarmolik.github.io',
+        /*'https://natali09yarmolik.github.io',*/
         /*'http://localhost:3010/src/items'*/
 
     ];
@@ -20,7 +20,7 @@ app.use(function (req, res, next) {
     next();
 });
 
-const items = require('../items.json')
-app.get('/src/items', (req, res) => {
+const items = require('./items.json')
+app.get('/items', (req, res) => {
     res.json({data: items})
 })
