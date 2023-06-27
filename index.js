@@ -20,8 +20,8 @@ app.use(function (req, res, next) {
     next();
 });
 
-const items = require('items.json')
+const items = require('./items.json')
 console.log(items)
-app.get('items', (req, res) => {
+app.get('./items.json', (req, res) => {
     res.json({data: items})
 })
