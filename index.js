@@ -22,6 +22,6 @@ app.use(function (req, res, next) {
 
 const items = require('./items.json')
 console.log(items)
-app.get('./items.json', (req, res) => {
+app.get('/', (req, res) => {
     res.json({data: items})
 })
