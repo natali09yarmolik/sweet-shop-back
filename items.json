@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "picture": "/icons/1.jpg",
+    "title": "Бисквитное",
+    "price": 5,
+    "unit": "руб/шт",
+    "count": 1
+  },
+  {
+    "id": 2,
+    "picture": "/icons/2.jpg",
+    "title": "Захер",
+    "price": 3,
+    "unit": "руб/шт",
+    "count": 1
+  },
+  {
+    "id": 3,
+    "picture": "/icons/3.jpg",
+    "title": "Сказка",
+    "price": 4,
+    "unit": "руб/шт",
+    "count": 1
+  },
+  {
+    "id": 4,
+    "picture": "/icons/4.jpg",
+    "title": "Буше",
+    "price": 4.5,
+    "unit": "руб/шт",
+    "count": 1
+  },
+  {
+    "id": 5,
+    "picture": "/icons/5.jpg",
+    "title": "Прага",
+    "price": 5,
+    "unit": "руб/шт",
+    "count": 1
+  },
+  {
+    "id": 6,
+    "picture": "/icons/6.jpg",
+    "title": "Опера",
+    "price": 3.5,
+    "unit": "руб/шт",
+    "count": 1
+  },
+  {
+    "id": 7,
+    "picture": "/icons/7.jpg",
+    "title": "Малиновое",
+    "price": 2.5,
+    "unit": "руб/шт",
+    "count": 1
+  },
+  {
+    "id": 8,
+    "picture": "/icons/8.jpg",
+    "title": "Медовое",
+    "price": 2,
+    "unit": "руб/шт",
+    "count": 1
+  },
+  {
+    "id": 9,
+    "picture": "/icons/9.jpg",
+    "title": "Сникерс",
+    "price": 5,
+    "unit": "руб/шт",
+    "count": 1
+  },
+  {
+    "id": 10,
+    "picture": "/icons/10.jpg",
+    "title": "Марс",
+    "price": 4.7,
+    "unit": "руб/шт",
+    "count": 1
+  }
+]
